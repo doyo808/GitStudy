@@ -7,8 +7,8 @@ public class Apple {
 		price = 1000;
 	}
 	
-	public void print() {
-		System.out.println("사과사과");
+	public void setPrice(int price) {
+		this.price = price;
 	}
 }
  
