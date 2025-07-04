@@ -13,3 +13,7 @@
 # 새 프로젝트로 레포지토리 만들기
 - 새 프로젝트로 생성 -> 우클릭 -> Team -> Share Project -> 폴더위치 선택 후 레포지토리로 변환
 - 원래 java-workspace에 있던 프로젝트가 레포지토리로 이동되어 .git의 관리를 받기 시작한다
+
+# 작업물에 우클릭 -> team -> show in history / show in repositories
+- history에서 head가 있는 부분이 현재 상태이다.
+- 다른 커밋에서 우클릭 -> check out 하면 head가 옮겨간다.
